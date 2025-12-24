@@ -7,7 +7,10 @@ nav:
   - CS144学习笔记:
     - 笔记1: CS144学习笔记/笔记1.md
     - Lab: CS144学习笔记/Lab/check1.md
-  - Git: Git/test.md
+  - Git:
+    - test: Git/test.md
+    - 《Git版本控制管理》: Git/《Git版本控制管理》.md
+  - VMWare配置: VMWare配置/VPN网络配置.md
 theme: readthedocs
 
 markdown_extensions:
