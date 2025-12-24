@@ -1,0 +1,6 @@
+site_name: boiled-fish-docs
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: readthedocs
