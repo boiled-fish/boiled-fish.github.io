@@ -4,9 +4,6 @@ copyright: Copyright © 2025 boiled-fish
 nav:
   - about: about.md
   - index: index.md
-  - CS144学习笔记:
-    - 笔记1: CS144学习笔记/笔记1.md
-    - Lab: CS144学习笔记/Lab/check1.md
   - Git: Git/test.md
 theme: readthedocs
 
