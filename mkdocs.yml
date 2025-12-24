@@ -2,6 +2,6 @@ site_name: boiled-fish-docs
 nav:
   - Home: index.md
   - About: about.md
-  - Git: test.md
+  - Git: Git/test.md
 
 theme: readthedocs
