@@ -7,10 +7,26 @@ nav:
   - CS144学习笔记:
     - 笔记1: CS144学习笔记/笔记1.md
     - Lab: CS144学习笔记/Lab/check1.md
-  - Git:
-    - test: Git/test.md
-    - 《Git版本控制管理》: Git/《Git版本控制管理》.md
+  - Git: Git/《Git版本控制管理》.md
   - VMWare配置: VMWare配置/VPN网络配置.md
+  - 系统架构设计师备考:
+    - 考试简介&备考建议: 系统架构设计师备考/考试简介&备考建议.md
+    - 计算机系统基础: 系统架构设计师备考/计算机系统基础.md
+    - images:
+      - Pasted image 20260105132939: 系统架构设计师备考/images/Pasted image 20260105132939.png
+      - Pasted image 20260105164939: 系统架构设计师备考/images/Pasted image 20260105164939.png
+      - Pasted image 20260105165350: 系统架构设计师备考/images/Pasted image 20260105165350.png
+      - Pasted image 20260105173248: 系统架构设计师备考/images/Pasted image 20260105173248.png
+      - Pasted image 20260106094807: 系统架构设计师备考/images/Pasted image 20260106094807.png
+      - Pasted image 20260106110234: 系统架构设计师备考/images/Pasted image 20260106110234.png
+      - Pasted image 20260106111910: 系统架构设计师备考/images/Pasted image 20260106111910.png
+      - Pasted image 20260106112121: 系统架构设计师备考/images/Pasted image 20260106112121.png
+      - Pasted image 20260107091131: 系统架构设计师备考/images/Pasted image 20260107091131.png
+      - Pasted image 20260107092736: 系统架构设计师备考/images/Pasted image 20260107092736.png
+      - Pasted image 20260107095406: 系统架构设计师备考/images/Pasted image 20260107095406.png
+      - Pasted image 20260107101257: 系统架构设计师备考/images/Pasted image 20260107101257.png
+      - Pasted image 20260107102537: 系统架构设计师备考/images/Pasted image 20260107102537.png
+      - Pasted image 20260108145056: 系统架构设计师备考/images/Pasted image 20260108145056.png
 theme: readthedocs
 
 markdown_extensions:
